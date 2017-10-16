@@ -6,9 +6,8 @@ trademark: Trademark
 
 # <comment>Node.js® とは</comment>
 
-Node はスケーラブルなネットワークアプリケーションを構築するために設計された非同期型のイベント駆動の JavaScript 環境です。
-以下の「Hello World」の例では、たくさんの接続を同時に処理することができます。各接続ごとにコールバックは発火され、何もすることがない場合、Node
-はスリープします。
+Node はスケーラブルなネットワークアプリケーションを構築するために設計された非同期型のイベント駆動の JavaScript 環境です。以下の「Hello
+World」の例では、たくさんの接続を同時に処理することができます。各接続ごとにコールバックは発火され、何もすることがない場合、Node はスリープします。
 
 ```javascript
 const http = require('http');
